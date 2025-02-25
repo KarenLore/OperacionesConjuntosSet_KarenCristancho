@@ -59,6 +59,10 @@ Diferencia (Conjunto 1 - Conjunto 2): [1]
 - `HashSet` no mantiene el orden de los elementos.
 - Se garantiza que los conjuntos no contengan elementos duplicados.
 
+📬 Contacto
+- 📧 Correo electrónico: criscacereskarenlorena@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karencristancho
+
 ---
 ✍️ **Autor:** 
 **Karen Cristancho**
